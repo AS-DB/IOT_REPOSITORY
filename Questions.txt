@@ -1,0 +1,18 @@
+1Q)
+->YOU ARE DEVELOPING A SMART HOME SYSTEM THAT ALLOWS USERS TO CONTROL LIGHTS , THERMOSTATS AND DOOR LOCKS REMOTELY, DESIGN A SYSTEM ARRCHITECTURE,INCLUDING HARDWARE COMPONENTS, COMMUNICATION PROTOCOLS AND SOFTWARE COMPONENTS, TO ACHIEVE THIS FUNCTIONALITY.CONSIDER SECURITY AND SCALABILITY.
+->IMPLEMeNT PYTHON PROGRAM TO READS TEMP AND HUMIDITY DATA FROM SENSOR AND STORE IN DATABASE,SENDS AN ALERT TO A USER PHONE IF THE TEMP EXCEEDS A CERTAIN THRESHOLD
+
+2Q)
+->Design an iot for monitoring the performance of industrial machinery, such as sensors measuring vibration, temperature and pressure.how would you collect , process and analyze this data in real time to predict potential failures.
+->Develop a c++ program that reads data from a sensor, performs basic data processing and transmit the result to a central server using secure communication protocol
+
+3Q)
+->Write a python script that reads data from a soil moisture sensor , uses a ml model to predict irrigation needs and sends a notification to user's mobile.
+
+4Q)
+->Design an IOT system for managing traffic flow in a smart city,including real-time monitoring of traffic conditions, optimizing traffic lights and providing real-time information to drivers.
+
+->Develop a java applications that receives traffic data from various sensos,analyzes it and sends command to traffic lights to optimize traffic flow.
+
+
+ranjit2798
